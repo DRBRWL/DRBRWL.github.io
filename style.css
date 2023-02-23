@@ -1,7 +1,7 @@
 body {
-  background-color:#444444;
-    color: #dddddd;
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: Chocolate ;
+    color: black;
+  font-family: "Times New Roman", Times, serif;
   margin: 10% 20%;
 }
 
@@ -10,5 +10,22 @@ body {
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0 0.1)
+  background-color: Tomato;
+  opacity: 1
+}
+
+
+li{
+  color: black; 
+
+}
+h1{outline-style: dotted;
+}
+
+h4{text-decoration: underline;
+   color: cyan
+  
+}
+h5{border-style: dotted;
+  
 }
